@@ -1,0 +1,6 @@
+{
+  "name": "Kifayati",
+  "description": "Live price comparison across top Indian stores including Amazon, Flipkart, JioMart, Croma, Blinkit, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

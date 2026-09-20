@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.class
+*.db
+*.sqlite3
+*.log
+scratch_*
+.vscode/
+.idea/
+node_modules/
+.env

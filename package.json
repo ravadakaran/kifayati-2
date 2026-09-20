@@ -1,0 +1,15 @@
+{
+  "name": "kifayati",
+  "version": "1.0.0",
+  "description": "Live price comparison across top Indian stores including Amazon, Flipkart, JioMart, Croma, Blinkit, and more.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -e \"console.log('Build successful')\""
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
